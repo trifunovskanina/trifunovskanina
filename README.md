@@ -6,7 +6,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering *(2025 - 2026)*
+- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering
   - Algorithms & Data Structures
   - Applied Algorithms & Data Structures
 
@@ -21,7 +21,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-- **Introduction to Computer Science, Harvard University (CS50x)** *(2020-2021)*
+- **Introduction to Computer Science, Harvard University (CS50x)**
 - **115+ competitive programming tasks solved** during high school
 
 ### 🛠️ Technical Stack
