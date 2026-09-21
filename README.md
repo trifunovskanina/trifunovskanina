@@ -6,7 +6,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering
+- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering - Skopje
   - Algorithms & Data Structures
   - Applied Algorithms & Data Structures
 
