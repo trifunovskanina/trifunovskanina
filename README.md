@@ -4,7 +4,7 @@
 
 ---
 
-- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering (2025 - 2026)
+- **Laboratory Teaching Assistant** at the Faculty of Computer Science and Engineering *(2025 - 2026)*
   - Algorithms & Data Structures
   - Applied Algorithms & Data Structures
 
