@@ -17,9 +17,11 @@ I am a Software Engineering and Information Systems student at the Faculty of Co
 - **B.Sc in Computer Science**, Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University
 - **High School Gymnasium** Orce Nikolov, Skopje
 
-### 🏆 Achievements
+### 🏆 Certifications & Achievements
 
 ---
+
+- **Introduction to Computer Science, Harvard University (CS50x)** *(2020-2021)*
 - **115+ competitive programming tasks solved** during high school
 
 ### 🛠️ Technical Stack
