@@ -1,7 +1,5 @@
 # Hi, I'm Nina Trifunovska 👋🏻
 
-I am a Software Engineering and Information Systems student at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University in Skopje, Macedonia.
-
 ### 💼 Experience
 
 ---
