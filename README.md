@@ -14,7 +14,7 @@ I am a Software Engineering and Information Systems student at the Faculty of Co
 
 ---
 
-- **Bachelor of Science in Software Engineering and Information Systems**, Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University
+- **B.Sc in Computer Science**, Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University
 - **High School Gymnasium** Orce Nikolov, Skopje
 
 ### 🏆 Achievements
