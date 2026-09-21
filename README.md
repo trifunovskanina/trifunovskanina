@@ -14,8 +14,8 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-- **B.Sc in Computer Science**, Faculty of Computer Science and Engineering
-- **High School Gymnasium** Orce Nikolov, Skopje
+- **B.Sc in Computer Science**, Faculty of Computer Science and Engineering - Skopje
+- **High School Gymnasium** Orce Nikolov - Skopje
 
 ### 🏆 Certifications & Achievements
 
