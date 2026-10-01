@@ -61,10 +61,3 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)](https://jupyter.org/)
-
----
-
-### 📬 Contact Information
-
-- **LinkedIn**: [linkedin.com/in/trifunovskanina](https://linkedin.com/in/trifunovskanina)
-- **Personal Website**: [trifunovskanina.github.io](https://trifunovskanina.github.io)
