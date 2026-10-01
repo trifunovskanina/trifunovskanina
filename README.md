@@ -66,7 +66,5 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ### 📬 Reach Me
 
----
-
 - **LinkedIn**: [linkedin.com/in/trifunovskanina](https://linkedin.com/in/trifunovskanina)
 - **Personal Website**: [trifunovskanina.github.io](https://trifunovskanina.github.io)
