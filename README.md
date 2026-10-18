@@ -6,9 +6,9 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-- **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering - Skopje *(Present)*
+- **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering *(Oct 2026 - Present)*
   - Introduction to Computer Science
-- **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering - Skopje *(Oct 2025)*
+- **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering *(Oct 2025 - Jan 2026)*
   - Algorithms & Data Structures
   - Applied Algorithms & Data Structures
 
