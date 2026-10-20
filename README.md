@@ -7,6 +7,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 ---
 
 - **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering *(Oct 2026 - Present)*
+  - Software Design and Architecture
   - Introduction to Computer Science
 - **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering *(Oct 2025 - Jan 2026)*
   - Algorithms & Data Structures
