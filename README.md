@@ -2,7 +2,7 @@
 
 I am pursuing Software Engineering and Information Systems at the Faculty of Computer Science and Engineering, Ss. Cyril and Methodius University in Skopje, Macedonia.
 
-### 💼 Experience
+## 💼 Experience
 
 ---
 
@@ -13,25 +13,25 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
   - Algorithms & Data Structures
   - Applied Algorithms & Data Structures
 
-### 🎓 Education 
+## 🎓 Education 
 
 ---
 
 - **B.Sc. in Computer Science**, Faculty of Computer Science and Engineering - Skopje
 - **High School Gymnasium** Orce Nikolov - Skopje
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 ---
 
 - **Introduction to Computer Science, Harvard University (CS50x)**
 - **115+ competitive programming problems solved** during high school
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 ---
 
-#### Languages
+### Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -40,7 +40,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-#### Machine Learning & Data Science
+### Machine Learning & Data Science
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
@@ -51,14 +51,14 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](https://www.thymeleaf.org/)
 
-#### Databases & Tools
+### Databases & Tools
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -68,6 +68,6 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-### 🌐 Professional Profiles
+## 🌐 Professional Profiles
 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-trifunovskanina-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/trifunovskanina/)
