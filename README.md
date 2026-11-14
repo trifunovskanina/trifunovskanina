@@ -4,8 +4,6 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ## 💼 Experience
 
----
-
 - **Laboratory Teaching Assistant** at Faculty of Computer Science and Engineering *(Oct 2026 - Present)*
   - Software Design and Architecture
   - Introduction to Computer Science
@@ -15,21 +13,15 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ## 🎓 Education 
 
----
-
 - **B.Sc. in Computer Science**, Faculty of Computer Science and Engineering - Skopje
 - **High School Gymnasium** Orce Nikolov - Skopje
 
 ## 🏆 Achievements
 
----
-
 - **Introduction to Computer Science, Harvard University (CS50x)**
 - **115+ competitive programming problems solved** during high school
 
 ## 🛠️ Technical Stack
-
----
 
 ### Languages
 
@@ -65,8 +57,6 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
----
 
 ## 🌐 Professional Profiles
 
