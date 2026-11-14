@@ -68,4 +68,6 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ---
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/trifunovskanina/)
+### 💻 LeetCode Statistics
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/trifunovskanina?theme=light)
