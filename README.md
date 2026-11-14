@@ -19,7 +19,7 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 ## 🏆 Achievements
 
 - **Introduction to Computer Science, Harvard University (CS50x)**
-- **115+ competitive programming problems solved** during high school
+- **115+ competitive programming problems solved** on MENDO during high school 
 
 ## 🛠️ Technical Stack
 
