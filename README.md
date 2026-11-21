@@ -60,5 +60,5 @@ I am pursuing Software Engineering and Information Systems at the Faculty of Com
 
 ## 🌐 Professional Profiles
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-trifunovskanina-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/trifunovskanina/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-trifunovskanina-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trifunovskanina.github.io)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-trifunovskanina-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/trifunovskanina/)
